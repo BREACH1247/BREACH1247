@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aditya Sinha</h1>
-<h3 align="center">Backend Engineer at @Samespace.</h3>
+<h3 align="center">Backend Engineer at @Skidos</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=breach1247&label=Profile%20views&color=0e75b6&style=flat" alt="breach1247" /> </p>
 
